@@ -28,7 +28,7 @@ public class Service {
         switch (actionNumber){
             case 1 -> {
                 System.out.println("Enter x");
-                float x = scanner.nextFloat();
+                double x = scanner.nextDouble();
                 System.out.println("Answer: " + function.solve(x));
             }
             case 2 ->{

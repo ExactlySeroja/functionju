@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58617856-5624-479a-9d5d-565fb28db521" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="58617856-5624-479a-9d5d-565fb28db521" name="Changes" comment="Changed date type and added measurement error">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seroja/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/seroja/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seroja/function/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/seroja/function/Function.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/seroja/service/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/seroja/service/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/seroja/function/FunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/seroja/function/FunctionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +60,7 @@
       <recent name="com.seroja.function" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FunctionTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.seroja.Main" />
       <module name="functionju" />
@@ -144,8 +139,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FunctionTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.FunctionTest" />
         <item itemvalue="JUnit.FunctionTest.testFillArrayY" />
         <item itemvalue="JUnit.FunctionTest.testFindAverage" />
         <item itemvalue="JUnit.FunctionTest.testFindSum" />
@@ -165,8 +160,18 @@
       <workItem from="1674205699820" duration="2905000" />
       <workItem from="1674220400027" duration="3505000" />
       <workItem from="1674226738683" duration="2369000" />
-      <workItem from="1674298736989" duration="574000" />
+      <workItem from="1674298736989" duration="904000" />
+      <workItem from="1674638283357" duration="18000" />
+      <workItem from="1674663024166" duration="1250000" />
     </task>
+    <task id="LOCAL-00001" summary="Changed date type and added measurement error">
+      <created>1674299514484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674299514484</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +187,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed date type and added measurement error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed date type and added measurement error" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
